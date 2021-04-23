@@ -9,7 +9,7 @@ El término reproductibilidad (o reproducibility, en inglés) se refiere a la ca
    > *"Al día de hoy, pocos resultados publicados son reproducibles en un sentido práctico. Verificarlos requiere de tanto esfuerzo como el que tomó crearlos. Después de un tiempo, incluso los autores son incapaces de reproducir sus propios resultados. Por esta razón, muchas personas ignoran la mayor parte de la literatura científica."* (Claerbout, 1992)  
 
 Con el fin de resolver esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos [(FDA)](https://www.fda.gov/), empezaron a publicar lineamientos para atacar los problemas derivados de una inadecuada documentación de los experimentos basados en ensayos aleatorios. De manera simultánea, se le dio más importancia a la calidad de los datos utilizados en las investigaciones. Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 2016 que un 20% de los artículos con archivos de datos suplementarios publicados en revistas científicas contenían errores en los nombres de los genes, debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).
-![image](https://user-images.githubusercontent.com/82825945/115800230-67b16400-a397-11eb-9b17-fc821ab68adf.png)  
+![image](https://user-images.githubusercontent.com/82825945/115800651-51f06e80-a398-11eb-8d58-1f5bdffd1ff8.png)  
 
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).  
 ## **Bibliografía**
